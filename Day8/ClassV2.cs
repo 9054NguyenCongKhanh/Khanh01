@@ -12,6 +12,13 @@ namespace Day8
     public class V2
     {
         public int ID { get; set; }
-        
+
+
+
+
+        public int MSSV { get; set; }
+
     }
 }
+
+
