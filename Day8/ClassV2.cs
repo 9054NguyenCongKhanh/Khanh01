@@ -9,4 +9,9 @@ namespace Day8
     class ClassV2
     {
     }
+    public class V2
+    {
+        public int ID { get; set; }
+        
+    }
 }
